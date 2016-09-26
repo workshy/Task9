@@ -66,7 +66,7 @@ public class DriverLicenseTest {
 
         Date fromDate = cal.getTime();
 
-        cal.set(2010, Calendar.DECEMBER, 10);
+        cal.set(2020, Calendar.DECEMBER, 10);
         cal.add(Calendar.YEAR, 10);
 
         Date expires = cal.getTime();
